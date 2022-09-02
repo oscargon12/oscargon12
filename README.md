@@ -18,7 +18,6 @@ const highlights = {
   const sayHi = (name) => {
     console.log(`Hi ${name} what's new?`)
   }
-  sayHi('user');
 };
 ```
 
