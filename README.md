@@ -102,4 +102,4 @@ const highlights = {
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="25" height="25"/> </a>
 </p>
 
-> _I strongly believe that the responsible use of technology, can lead us to a better society and to the utopian future of science fiction movies._ 👋
+> _I strongly believe that the responsible use of technology, can lead us to a better society._ 👋
