@@ -1,6 +1,5 @@
 <img align="left" height="100" src="https://www.piskelapp.com/static/resources/home/features/feature-open-source@2x.gif">
 
-<br>
 
 ### Hi there 👋
 
